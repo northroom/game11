@@ -1,3 +1,16 @@
+/publish/assets/art/characters/hero/herocontroller2.controller.ab|9de703f0d99dda16bfcf57b6d5520ddd
+/publish/assets/art/characters/hero1.prefab.ab|33911c2427a375dcab832669e5339bc0
+/publish/assets/art/characters/hero10.prefab.ab|505757b956c08329ef5b0f790f13c0cb
+/publish/assets/art/characters/hero11.prefab.ab|caf7a181441a75a5fb2d08ecad8a17fc
+/publish/assets/art/characters/hero12.prefab.ab|950bea9aa330bf5197b3346eed751991
+/publish/assets/art/characters/hero2.prefab.ab|82381970bdfc3001e1be66fc26773cd3
+/publish/assets/art/characters/hero3.prefab.ab|24c9aa3e292895be7c42d1151d3997e0
+/publish/assets/art/characters/hero4.prefab.ab|307211e84642f92aa673e8cb0602fb02
+/publish/assets/art/characters/hero5.prefab.ab|d3d61c4d3db82ec0572b2e5320966127
+/publish/assets/art/characters/hero6.prefab.ab|64f9323c3c8e2a98bdc9edbcdbfdbb5c
+/publish/assets/art/characters/hero7.prefab.ab|f206e6de283eb9a4c58be765bf5fc519
+/publish/assets/art/characters/hero8.prefab.ab|8207f0b959c399a0789238d9cdff453a
+/publish/assets/art/characters/hero9.prefab.ab|7126325d7bfea0503fc1fe07d5277f0b
 /publish/assets/art/sprites/backgrounds/lives & coins/background.psd.ab|9f7538a54a6dd4a812ec29540e14c05a
 /publish/assets/art/sprites/backgrounds/loadingbars/background.psd.ab|3a0a83e969d471f70f04e49adcf45967
 /publish/assets/art/sprites/backgrounds/loadingbars/black.psd.ab|138a976d610810042e6437e71cc4e4da
@@ -400,13 +413,13 @@
 /publish/assets/art/sprites/spinwheel/centerbutton.psd.ab|9b6dc4ead89fbaf2fb16f0dad42a19d5
 /publish/assets/art/sprites/spinwheel/handle.psd.ab|3d48dfcf4b947d3b2c80762679f8160f
 /publish/assets/art/sprites/spinwheel/weel.psd.ab|b5a762e7c59a6a1b09c123324298225c
-/publish/publish.ab|5ad2c5c5569f4fd75bddab19f85cf3db
+/publish/publish.ab|c6bc9314f4a76761d6666dc9c5fd71d0
 /Tables/Client/Language.dat|d8bd499876738892d10cf4d443a8d2d2
 /Tables/Client/ServerList.dat|3dd307555c7b0a000d03f0403e22f278
 /Tables/Client/StoryDlg.dat|014912b4ff19c80b0dabde9a97774211
 /Tables/Client/StrDictionary.dat|695b003c406b43d8d63f0aa1cf410dfe
 /Tables/Client/UI.dat|9dea8a2cfa27cdcbd583a8494841d008
-/Tables/Public/Actor.dat|099912cd9836f882184a5fb0508178ff
+/Tables/Public/Actor.dat|6f35377aa9e5dec8152d6a30753f70b5
 /Tables/Public/Chest.dat|8edcd821d84b890ab73e0763ff4de62b
 /Tables/Public/Formation.dat|81d55653e6f3e4c069f3568baa03cccb
 /Tables/Public/Item.dat|1f322049932acef4dc52a28712254954
