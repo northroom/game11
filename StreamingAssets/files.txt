@@ -12,7 +12,7 @@
 /publish/assets/art/characters/hero8.prefab.ab|8207f0b959c399a0789238d9cdff453a
 /publish/assets/art/characters/hero9.prefab.ab|7126325d7bfea0503fc1fe07d5277f0b
 /publish/assets/art/prefab/ui/ui1.prefab.ab|c7ea3385f6eed8b036c715beaa15f0d2
-/publish/publish.ab|2591c782b5470f6ed702deebdca96c8a
+/publish/publish.ab|c84783686b0c70c488e2b3e5d3671600
 /Tables/Client/Language.dat|d8bd499876738892d10cf4d443a8d2d2
 /Tables/Client/ServerList.dat|3dd307555c7b0a000d03f0403e22f278
 /Tables/Client/StoryDlg.dat|014912b4ff19c80b0dabde9a97774211
@@ -28,3 +28,4 @@
 /Tables/Public/Skill.dat|401761125b75de36a97b04c6faac9f43
 /Tables/Public/SkillDsl.dat|cf6eaee1a56609b1446448c245de2ed2
 /Tables/Public/SkillResources.dat|482c7c2e1f913724148375feb46cbfdb
+/build_info.txt|b13b59e350c143b32d0e093ccba5e987
