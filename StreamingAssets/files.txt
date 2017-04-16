@@ -11,14 +11,14 @@
 /publish/assets/art/characters/hero7.prefab.ab|f206e6de283eb9a4c58be765bf5fc519
 /publish/assets/art/characters/hero8.prefab.ab|8207f0b959c399a0789238d9cdff453a
 /publish/assets/art/characters/hero9.prefab.ab|7126325d7bfea0503fc1fe07d5277f0b
-/publish/assets/art/prefab/ui/ui1.prefab.ab|c7ea3385f6eed8b036c715beaa15f0d2
-/publish/publish.ab|c84783686b0c70c488e2b3e5d3671600
+/publish/assets/art/prefab/ui/ui1.prefab.ab|79d89cfd14fb2849a34665c8ac0b0b77
+/publish/publish.ab|e883214bbaf2e5644796d8a1e86f4f9e
 /Tables/Client/Language.dat|d8bd499876738892d10cf4d443a8d2d2
 /Tables/Client/ServerList.dat|3dd307555c7b0a000d03f0403e22f278
 /Tables/Client/StoryDlg.dat|014912b4ff19c80b0dabde9a97774211
 /Tables/Client/StrDictionary.dat|695b003c406b43d8d63f0aa1cf410dfe
 /Tables/Client/UI.dat|9dea8a2cfa27cdcbd583a8494841d008
-/Tables/Public/Actor.dat|6f35377aa9e5dec8152d6a30753f70b5
+/Tables/Public/Actor.dat|7f3b9d3888a7ac1a365af5d86aa1910b
 /Tables/Public/Chest.dat|8edcd821d84b890ab73e0763ff4de62b
 /Tables/Public/Formation.dat|81d55653e6f3e4c069f3568baa03cccb
 /Tables/Public/Item.dat|1f322049932acef4dc52a28712254954
